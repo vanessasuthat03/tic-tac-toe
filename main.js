@@ -1,1 +1,1 @@
-console.log('First new branch!')
+console.log('First change in the new branch!')
